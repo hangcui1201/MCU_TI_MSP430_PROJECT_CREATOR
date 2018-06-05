@@ -1,6 +1,3 @@
-# MSP430_PROJECT_CREATOR
+# MSP430ProjectCreator
 
-# "MSP430ProjectCreator" is a package which includes several sub-packages and the test package, the upper level is not a package but a directory which has the same name of this package, namely "MSP430ProjectCreator"
-
-# To run the program
-# >> python3 MSP430ProjectCreator.py
+# This project creator is used for creating MSP430 Code Composer Studio projects, specially for MSP430F2272 and MSP430G2553 (MSP-EXP430G2 LaunchPad)
